@@ -1,0 +1,23 @@
+{
+  "name": "013---redux-starter-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyoneri/redux-starter-react.git"
+  },
+  "keywords": [],
+  "author": "Riyoneri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riyoneri/redux-starter-react/issues"
+  },
+  "homepage": "https://github.com/riyoneri/redux-starter-react#readme",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
